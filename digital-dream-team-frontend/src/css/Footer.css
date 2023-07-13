@@ -1,0 +1,13 @@
+.flex-wrapper {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.footer {
+    color: lightgray;
+    padding: 1.25em;
+    text-align: center;
+    margin-top: auto;
+}
